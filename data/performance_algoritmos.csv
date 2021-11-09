@@ -1,0 +1,6 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Auc,Algoritmo
+0,0.0,0.0,0.0,0.85,Regresion logistica
+1,1.0,1.0,1.0,0.77,Arb_Dec
+2,2.0,2.0,,0.84,R_Forest
+3,3.0,,,0.84,XGBoost
+4,,,,0.84,lightGBM
